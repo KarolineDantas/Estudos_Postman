@@ -18,7 +18,8 @@ O QA integra o time de desenvolvimento, porém, sendo um profissional com maior 
 -------------------------------------------------------------------------------------
 # A pirâmide de testes
 
-### Qual a função da pirâmide de testes? Define níveis de testes, e guia a pessoa a saber a quantidade de testes que deveria ter em cada um desses níveis.
+### Qual a função da pirâmide de testes? 
+Define níveis de testes, e guia a pessoa a saber a quantidade de testes que deveria ter em cada um desses níveis.
 ![image](https://user-images.githubusercontent.com/107884724/223505597-485a12c6-b8af-40bd-9309-c1f6d9dc9485.png)
 
 ### Valores:
