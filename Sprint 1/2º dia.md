@@ -27,3 +27,6 @@ importância, e a horizontal o grau de urgência.
 > Tarefa importante:  Relacionada ao alcance de determinada meta/objetivo.
 
 > Tarefa urgente:  Relaciona a um prazo.
+
+
+![image](https://user-images.githubusercontent.com/107884724/223524142-c109b8dd-cf13-4c0d-b748-86fe3b1d376b.png)
