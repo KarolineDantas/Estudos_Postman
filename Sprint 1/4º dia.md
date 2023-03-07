@@ -1,82 +1,28 @@
-# Ferramentas de Gerenciamento: IStudio Quality & Test Automation
+# O QA dentro de um time ágil 
+*Texto original [aqui](https://www.cedrotech.com/blog/o-qa-dentro-de-um-time-agil-scrum).*
+
+QA, do inglês Quality Assurance (Garantia de Qualidade), é um termo muito disseminado dentro do desenvolvimento de software, e o seu principal objetivo é garantir que o produto final seja entregue com a qualidade esperada.
+
+O QA integra o time de desenvolvimento, porém, sendo um profissional com maior habilidade em planejar, desenvolver e executar testes.
+
+### O que se ganha com um QA em time ágil?
+
+	• Entregas com maior valor agregado;
+	• Otimização do tempo;
+	• Maior evangelização das práticas de qualidade durante todo projeto;
+	• Menor número de incidentes críticos na reta final do produto;
+	• Redução de custo pela antecipação dos bugs encontrados durante o projeto;
+	• Incentivo em melhorar o processo continuamente.
 
 
-## Ferramenta 01 – Azure DevOps
-![image](https://user-images.githubusercontent.com/107884724/223507146-80bf82fd-22c6-4113-a074-156a5af6ad88.png)
+-------------------------------------------------------------------------------------
+# A pirâmide de testes
 
-### Características:
-	• O Azure é uma plataforma de nuvem pública da Microsoft;
-	• Alguns serviços: PaaS (plataforma como serviço), IaaS (infraestrutura como serviço) e serviço de banco de dados gerenciado;Pode-se gerenciar todo um projeto de software, montar os backlogs, gerenciar as equipes, os testes, os bugs, publicar código, etc.
+### Qual a função da pirâmide de testes? Define níveis de testes, e guia a pessoa a saber a quantidade de testes que deveria ter em cada um desses níveis.
+![image](https://user-images.githubusercontent.com/107884724/223505597-485a12c6-b8af-40bd-9309-c1f6d9dc9485.png)
 
-
-### Serviços do Azure:
-	• Azure Pipelines - CI/DI funciona com qualquer linguagem, plataforma e nuvem;
-	• Azure Boards - Quadros Kanban, backlogs, painéis de equipe e relatórios personalizados;
-	• Azure Artifacts - Feeds de pacotes Maven, npm e NuGet de fontes públicas e privadas;
-	• Azure Repos - Repositórios Git privados ilimitados, hospedados na nuvem. Solicitações pull colaborativas, gerenciamento avançado de arquivos;
-	• Azure Test Plans - Soluções para testes. Criação de planejamento de testes, casos de teste, gerenciamento de bugs.
-
------------------
-
-## Ferramenta 02 - Jira Software
-![image](https://user-images.githubusercontent.com/107884724/223507334-63661909-8e16-4bd4-a701-ed46bee89524.png)
-
-### Características: 
-	• O Jira é uma plataforma da Atlassian e serve para acompanhar e gerenciar projetos de software.
-
-### Funções:
-	• Gerenciamento de projetos
-	• Bugs
-	• Casos de teste
-	• Requisitos
-	• Painéis Scrum e Kanban
-	• Notificações E-mail
-	• Relatórios
-	
------------------
-# Ferramenta 03 - Mantis Bug Tracker
-![image](https://user-images.githubusercontent.com/107884724/223507606-05eec3c8-f14e-4ebf-9deb-10404287f1d1.png)
-
-### Características: 
-	• É uma ferramenta para gerenciamento de defeitos/bugs em um software;
-
-### Funções:
-	• Bugs;
-	• Severidade;
-	• Evidência;
-	• Atribuir ao desenvolvedor;
-	• Status.
------------------
-# Ferramenta 04 - TestLink
-![image](https://user-images.githubusercontent.com/107884724/223507850-c4ae68c3-dd5f-468f-ba4d-50ca2ec26651.png)
-
-### Características: 
-	• É uma ferramenta Open Source de gerenciamento de teste de software.
-
-### Funções:
-	• Níveis de acesso;
-	• Planos de teste;
-	• Relatórios;
-	• Integração Jira, Mantis, Bugzilla, etc., 
-	• Bugs.
-
------------------
-# Ferramenta de Apoio
-
-É preciso sempre evidenciar os cenários de teste, seja um caso de sucesso e/ou bugs. Para isso, deve-se relatar de forma nítida e bem explicada, seja por imagem ou vídeo.
-
-# Ferramentas de imagem: 
-Captura do Windows; Lightshot; Full page screenshot (extensão do Chrome).
-
-# Ferramentas de vídeo: 
-Screencastify; HYFY Screen (integra com Jira); SingRecorder, Filmora, Obs Studio.
-
---------------
-# Conclusão:
-Cada projeto é gerenciado de uma forma e com uma determinada ferramenta, mas independente de qual usar, sempre é necessário:
-	- Documentar tudo, seja escrito, imagem ou vídeo
-	- Todas as documentações devem ter nome de quem fez e data
-	- Linkar os documentos. Ex.: Casos de teste com suas respectivas histórias
-	- Linguagem clara e objetiva 
-
-OBS.: Todas as ferramentas mencionadas possuem diversas outras funções, aqui foram destacadas as mais utilizadas.
+### Valores:
+	• Valor ágil I – Indivíduos e interações acima de processos e ferramentas
+	• Valor ágil II – Software funcionando é melhor que documentação abrangente
+	• Valor ágil III – Colaboração com o cliente acima de negociação de contratos
+	• Valor ágil IV – Responder a mudanças ao invés de seguir um plano
