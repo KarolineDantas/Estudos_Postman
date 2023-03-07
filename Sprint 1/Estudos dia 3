@@ -1,0 +1,87 @@
+Início do estudo: 17:20
+Reunião mais cedo: 30 min
+Fim: 20:50
+Data: 05_07
+
+
+Vídeo: Aprenda Scrum em 9 minutos
+
+O que é o Scrum?
+
+Scrum é um framework (união de códigos/conceitos genéricos) que promove soluções adaptativas para problemas complexos. 
+
+
+Pilares
+	• Transparência: Nos processos, requisitos de entrega e status
+	• Inspeção: Constante em tudo o que está sendo feito
+	• Adaptação: Tanto do processo quanto do produto às mudanças
+
+
+
+Papéis:
+
+Product Owner
+Entra em contato com o cliente, entende o produto solicitado e cria um projeto para que o produto seja realizado conforme todas as exigências do cliente. Portanto, o PO é a pessoa que sabe do negócio, onde, como, o que usar; é quem decide quais recursos e funcionalidades serão construídos, e qual a ordem a ser feita.
+É uma pessoa muito focada no negócio, precisa ser colaboradora, manjar de market, saber o valor do produto para o cliente. Representa quem paga, aponta os prazos, comunica claramente o que a equipe está buscando alcançar. Prioriza os itens do Product Backlog;
+
+	
+Scrum Master
+É o facilitador, ou seja, é uma pessoa prestativa que guia o time quando necessário, seu papel é resolve conflitos. Deve implantar o scrum dentro da equipe, e para isso precisa saber muito sobre o assunto. O Scrum Master deve ter todo o conhecimento que envolve o scrum (processo ágil). Fica de olho no processo, vê se tudo está sendo entregue no prazo. Auxilia o PO se necessário. Foca nas pessoas, é uma espécie de coach.
+Não é chefe de ninguém, apenas facilita as coisas.
+
+
+Dev Team
+São as pessoas que colocam a mão na massa, que constrói de fato o projeto. É uma equipe auto-organizada, precisam ter coragem, foco, comprometimento, respeito, abertura. Precisam de uma boa comunicação, e para que isso aconteça é interessante manter times pequenos (até 9 pessoas para a comunicação fluir melhor). Todos precisam estar 100% focados, comprometidos com o trabalho.
+
+
+
+
+
+
+
+
+
+
+
+
+O guia do Scrum
+
+O Scrum foi desenvolvido no início dos anos 1990 por Ken Schwaber e Jeff Sutherland.
+
+Scrum é um framework que promove soluções adaptativas para problemas complexos. 
+
+Lógica do Scrum:
+	1. Um Product Owner ordena o trabalho para um problema complexo em um Product Backlog.
+	2. O Scrum Team transforma uma seleção do trabalho em um incremento de valor durante uma Sprint. 
+	3. Scrum Team e seus stakeholders inspecionam os resultados e se ajustam para a próxima Sprint.
+	4. Repita. 
+
+
+Teoria do Scrum:
+Scrum é baseado no empirismo e lean thinking. O empirismo afirma que o conhecimento vem da experiência e da tomada de decisões com base no que é observado. O lean thinking reduz o desperdício e se concentra no essencial.
+
+Pilares do Scrum:
+	• Transparência: O processo emergente e o trabalho devem ser visíveis tanto para quem executa o trabalho quanto para quem recebe o trabalho;
+	• Inspeção: Os artefatos do Scrum e o progresso em direção às metas acordadas devem ser inspecionados com frequência e diligência para detectar variações ou problemas potencialmente indesejáveis.
+	• Adaptação: Se algum aspecto de um processo se desviar fora dos limites aceitáveis ou se o produto resultante for inaceitável, o processo que está sendo aplicado ou os materiais que estão sendo produzidos devem ser ajustados. 
+
+
+Valores:
+Compromisso, Foco, Abertura, Respeito e Coragem.
+Quando esses valores são incorporados pelo Scrum Team e pelas pessoas com quem trabalham, os pilares empíricos do Scrum de transparência, inspeção e adaptação ganham vida, construindo confiança. 
+
+
+Scrum Team
+A unidade fundamental do Scrum é um pequeno time de pessoas, um Scrum Team. O Scrum Team consiste em um Scrum Master, um Product owner e Developers. Dentro de um Scrum Team, não há sub-times ou hierarquias.
+
+Os Scrum Teams são multifuncionais e autogerenciáveis, o que significa que decidem internamente quem faz o quê, quando e como.
+
+O Scrum Team é responsável por todas as atividades relacionadas ao produto, desde a colaboração com stakeholder, verificação, manutenção, operação, experimentação, pesquisa e desenvolvimento, e qualquer outra coisa que possa ser necessária. 
+
+Dentro do Scrum Team há:
+
+	1. Developers – Pessoas que estão comprometidas em criar qualquer aspecto de um Incremento utilizável a cada Sprint. São responsáveis por Criar um plano para a Sprint, o Sprint Backlog; Introduzir gradualmente qualidade aderindo a uma Definição de Pronto; Adaptar seu plano a cada dia em direção à meta da Sprint; Responsabilizar-se mutuamente como profissionais.
+	
+	2. Product Owner - é responsável por maximizar o valor do produto resultante do trabalho do Scrum Team. É responsável pelo gerenciamento eficaz do Product Backlog , que inclui: Desenvolver e comunicar explicitamente a meta do produto; Criar e comunicar claramente os itens do Product Backlog; Ordenar os itens do Product Backlog; e, Garantir que o Product Backlog seja transparente, visível e compreensível.
+	
+	3. Scrum Master – Ajuda a entender a teoria e a prática do Scrum, tanto no Scrum Team quanto na organização. Treinar os membros do time em autogerenciamento e cross-funcionalidade; Ajudar o Scrum Team a se concentrar na criação de incrementos de alto valor que atendem à Definição de Pronto; 8 Provocando a remoção de impedimentos ao progresso do Scrum Team; e, Garantir que todos os eventos Scrum ocorram e sejam positivos, produtivos e mantidos dentro do Timebox.
