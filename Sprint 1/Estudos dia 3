@@ -85,3 +85,17 @@ Dentro do Scrum Team há:
 	2. Product Owner - é responsável por maximizar o valor do produto resultante do trabalho do Scrum Team. É responsável pelo gerenciamento eficaz do Product Backlog , que inclui: Desenvolver e comunicar explicitamente a meta do produto; Criar e comunicar claramente os itens do Product Backlog; Ordenar os itens do Product Backlog; e, Garantir que o Product Backlog seja transparente, visível e compreensível.
 	
 	3. Scrum Master – Ajuda a entender a teoria e a prática do Scrum, tanto no Scrum Team quanto na organização. Treinar os membros do time em autogerenciamento e cross-funcionalidade; Ajudar o Scrum Team a se concentrar na criação de incrementos de alto valor que atendem à Definição de Pronto; 8 Provocando a remoção de impedimentos ao progresso do Scrum Team; e, Garantir que todos os eventos Scrum ocorram e sejam positivos, produtivos e mantidos dentro do Timebox.
+
+Dinâmica do Scrum
+	1. Visão do produto (onde quer chegar? O que quer? Product Owner é o responsável);
+	2. Desmembrar todas as funcionalidades necessárias em uma lista. Essa lista é o Product Backlog (o Scrum Master auxilia o Product Owner nessa tarefa). Essas funcionalidades são separadas por ordem de importância (função do PO);
+	3. O projeto é separado em Sprints. As Sprints devem respeitar o time-box, e o ideal é que todas as sprints tenham o mesmo tempo de duração;
+	4. Antes de cada sprint é feito uma reunião de planejamento (Sprint Planning), onde é criado o Backlog da sprint. Nessa etapa é definido quantas funcionalidades pode ser colocada em cada sprint;
+	5. Todo dia é feito uma reunião de 15 minutos na qual é necessário responder 3 perguntas: O que fez ontem? O que vou fazer hoje? Tem algum impedimento?
+	6. No fim do sprint é feita a Sprint Review, em que verificam se o que está sendo feito está de acordo com o esperado;
+	7. Feita a retrospectiva, onde vê o que foi feito (tanto positivo quanto negativo)
+
+
+Ferramentas úteis que não fazem parte do Scrum, mas ajudam:
+	• Burndown Chart;
+	• Kanban Board
