@@ -24,7 +24,77 @@ Em outras palavras:
 O HTTP é um protocolo usado para obter recursos, como por exemplo documentos HTML que vemos e utilizamos diariamente na web. Serve também para mediar a comunicação entre APIs.
 
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/107884724/223733176-3026aac2-0d42-4380-992a-04db512194e9.png">
-
+O que é API?
+API significa Application Programming Interface (Interface de Programação de Aplicação). Podemos dizer que a API é a “ponte” que conecta sistemas. Com ela, é possível que dois programas “conversem” entre si e integrem suas funcionalidades. Exemplo você acessa o aplicativo da Decolar para pesquisar uma passagem aérea, o aplicativo mostra as opções de diversas Cia. Essa informação é possível através das API que as cias aéreas disponibiliza para o aplicativo. Então a Decolar, consome APIs da Gol, Tam, etc. Para conseguir disponibilizar essas informações. Nesse caso podemos dizer que a Decolar é o cliente e Cia aérea é o servidor. Como os código não precisa ser reescrito do zero isso acaba trazendo muitas vantagens. Quais as vantagens de usar API? • Redução de custos • Segurança • Melhoria na comunicação • Inovação
+Agora que entendemos o que é API, vamos entender o que é APIRest
+O que é API Rest? REST significa Transferência Representacional de Estado.
+O que isso quer dizer? É um estilo de arquitetura, que define padrões que facilita a comunicação entre sistemas web e usa o protocolo HTTP, é baseado em um contrato. Essa representação de estado pode estar no formato JSON, XML ou HTML. Hoje o mais usado é o Json.
+Agora a Karol vai falar sobre o protocolo HTTP.Validações em requisições HTTP
+O HTTP é um protocolo que serve como base na comunicação que existe em toda a
+Internet. Além disso, o HTTP serve também para intermediar a comunicação com
+APIs.
+O fluxo de comunicação é realizado a partir do cliente, que envia uma requisição ao
+servidor usando o protocolo HTTP. Logo depois, o servidor interpreta, processa e
+devolve a resposta.
+Qual a estrutura de uma requisição? Bom, ela é formada pelos seguintes elementos:
+• O método, que explica o tipo de requisição. Os mais utilizados são:
+o GET : utilizado para a leitura de dados
+o POST : criação de novos dados
+o PUT: atualização de dados
+o DELETE : exclusão de dados
+• A URL, que é o caminho do recurso (endpoint);
+• A versão do protocolo HTTP;
+• Cabeçalho, que contém informações sobre a requisição;
+• Um corpo de dados.
+Já a resposta do servidor possui elementos:
+• A versão do protocolo HTTP;
+• Status de resposta;
+• E o corpo (opcional)
+Além disso, na resposta do servidor podemos obter algumas informações muito
+importantes, como o status code. O status code serve para entender como o servidor
+lidou com a requisição feita pelo cliente.
+O status code é composto por 3 dígitos. Se começar com:
+• 1xx - Indica que o servidor ainda está processando a requisição de alguma
+forma.
+• 2xx - A requisição foi completamente recebida e o servidor entregou ao cliente
+o recurso esperado.
+• 3xx - A requisição foi recebida, mas o servidor precisou realizar algum tipo de
+redirecionamento.
+• 4xx - Códigos nesse range geralmente indicam um problema nas informações
+enviadas pelo cliente.
+• 5xx - Os códigos nesse intervalo correspondem a erros relacionados ao
+servidor.O que validar em uma API?
+Testes Técnicos (de acordo com o que foi especificado na Swagger da API)
+• Validar o status code retornado
+• Validar o header de retorno;
+• Validar o body do response;
+• Validar o tempo de resposta;
+Testes funcionais
+• Validar como sua API se comporta quando o serviço está fora;
+• Validar o resultado obtido X o resultado esperando, sempre se baseando na
+Swagger da API;
+• Validar o comportamento da API quando enviado um JSON com uma estrutura
+incorreta.
+Agora o Vinicius vai falar um pouco sobre os objetos Json.
+O que são objetos JSON (sua aplicação em APIs
+REST)
+JSON é um acrônimo para JavaScript Object Notation, e como o nome sugere, é uma
+forma de notação de objetos JavaScript, de uma forma que esses objetos podem ser
+representados em diversas linguagens. É um formato leve para intercâmbio de dados.
+Mesmo sendo baseado em JavaScript, o JSON não é uma linguagem de
+programação, é uma notação para transferência de dados que segue um padrão. Ele
+sempre é composto por texto e não possui comentários ou funções dentro de sua
+composição.
+O padrão dos dados usados dentro de um JSON é estruturado por meio de uma
+coleção de pares com nome e valor ou uma lista ordenada de valores.
+Esses pares sempre são compostos por uma chave e um valor, onde a chave é a
+identificação do conteúdo e os valores são os conteúdos. Os valores podem conter
+os seguintes tipos de dados: string, array, object, number, boolean ou null.
+A formatação dos arquivos JSON sempre é feita por alguns caracteres específicos,
+são eles:
+Chaves {} : para delimitar os objetos e também para iniciar e encerrar o JSON.
+Colchetes [] : para delimitar um Array.
+Dois pontos : : para separar a chave de seu valor.Vírgula , : para indicar a separação entre os elementos.
 ### Verbos HTTP e Status Code
 
 ## Arquitetura de microsserviços X monolítico
